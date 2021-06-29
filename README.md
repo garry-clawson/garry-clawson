@@ -1,4 +1,4 @@
-I am a post graduate student at the University of Lincoln reading for a MSc in Robotics and Autonomous System (2021-22). I am part of the AgriFoRwArdS CDT program (Cohort 3) and will be completing a PhD with the University of Cambridge from 2022 - 2025.
+I am a post graduate student at the University of Lincoln reading for a MSc in Robotics and Autonomous Systems (2021-22). I am part of the AgriFoRwArdS CDT program (Cohort 3) and will be completing a PhD with the University of Cambridge from 2022 - 2025.
 
 <!--
 **garry-clawson/garry-clawson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
